@@ -6,6 +6,9 @@
 
     Author: flightwusel
     License: use for anything. Acknowledge me if you feel like it.
+
+    Github: https://github.com/jonaseberle/xplane-plugin-icing
+    x-plane.org download: https://forums.x-plane.org/index.php?/files/file/89907-icing-%E2%80%93-inspect-and-change-aircraft-ice-accretion/
 ]]
 
 local const = {
