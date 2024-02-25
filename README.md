@@ -35,4 +35,4 @@ Show/hide the settings window
 If you have problems, feedback or ideas you can open an
 [issue on Github](https://github.com/jonaseberle/xplane-plugin-icing/issues)
 or post in the
-thread on the x-plane.org forum.
+[comments for the download on the x-plane.org forum](https://forums.x-plane.org/index.php?/files/file/89907-icing-%E2%80%93-inspect-and-change-aircraft-ice-accretion/).
